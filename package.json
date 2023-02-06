@@ -1,0 +1,22 @@
+{
+  "name": "devcamper",
+  "version": "1.0.0",
+  "description": "Bootcamp Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanman9599/DevCamper.git"
+  },
+  "author": "Van Jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanman9599/DevCamper/issues"
+  },
+  "homepage": "https://github.com/vanman9599/DevCamper#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
